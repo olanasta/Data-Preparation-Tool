@@ -1,0 +1,35 @@
+/* Style for the table */
+body{
+    background: #C4D3DA;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Style for table header */
+th {
+    background-color: #3498db; /* Blue color for the header */
+    color: #fff; /* Text color for the header */
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style for table rows */
+tr {
+    background-color: #f2f2f2; /* Alternate row color */
+}
+
+/* Style for table cells */
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Border between rows */
+}
+
+td.red {
+    color: #FF0000CD;
+}
