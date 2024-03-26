@@ -2,9 +2,6 @@ In my journey as a Junior Data Analyst, to ensure a comprehensive understanding 
 I have decided to create an application that allows an ordinary user to recognize and comprehend the dataset they need to process. 
 This will be achieved through the creation of customizable reports, enabling the user to correct and modify the data when necessary.
 
-In order to accomplish this, I chose to delve into the book "Practical Statistics for Data Scientists," which comes highly recommended 
-by many data analysts. This will provide me with the best possible insight into the processes that need to be implemented.
-
 The application I have developed enables the user to initially observe essential details about the dataset they are about to process, 
 such as the size of the dataset, basic statistical measurements, and more.
 
